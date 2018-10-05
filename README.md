@@ -1,7 +1,7 @@
 ![alt text](https://github.com/tniaz/Customer-Database-Management-System/blob/master/customer%20data%20management.png)
 # Project Description
 
-This application allows the user to create and access a database holding customer and transaction details. SQLite is used for the databse back-end and PyQt5 is used for the front-end.
+This application allows the user to create and access a database holding customer and transaction details. SQLite is used for the database back-end and PyQt5 is used for the front-end.
 
 
 # Getting Started
